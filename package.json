@@ -1,0 +1,15 @@
+{
+  "name": "TS-Challenges",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NDufy/TS-Challenges",
+  "author": "Andrey Bublik <NDufy@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  },
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
